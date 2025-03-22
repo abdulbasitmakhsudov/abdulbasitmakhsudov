@@ -40,4 +40,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulbosit973o&show_icons=true&locale=en&layout=compact" alt="abdulbosit973o" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulbosit973o&show_icons=true&locale=en" alt="abdulbasitmakhsudov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulbasitmakhsudov&show_icons=true&locale=en" alt="abdulbasitmakhsudov" /></p>
