@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdulbasit</h1>
 <h3 align="center">Mobile Developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbasitmakhsudov&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbosit973o" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbosit973o&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbosit973o" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulbosit973o" alt="abdulbosit973o" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulbasitmakhsudov" alt="abdulbasitmakhsudov" /></a> </p>
 
 - 🔭 I’m currently working on **Upwork**
 
