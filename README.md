@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulbasit</h1>
 <h3 align="center">Mobile Developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbosit973o&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbosit973o" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbasitmakhsudov&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasitmakhsudov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulbasitmakhsudov" alt="abdulbasitmakhsudov" /></a> </p>
 
@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/abdulbosit973o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdulbosit973o" height="30" width="40" /></a>
+<a href="https://dev.to/abdulbosit973o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdulbasitmakhsudov" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdulbosit-makhsudov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulbosit-makhsudov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23174406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23174406" height="30" width="40" /></a>
-<a href="https://instagram.com/yusuufdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulbosit973oo" height="30" width="40" /></a>
+<a href="https://instagram.com/yusuufdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulbasitmakhsudov" height="30" width="40" /></a>
 <a href="https://medium.com/@abdulbosit9730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulbosit9730" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mobile_app_development" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mobile_app_development" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdulbosit123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdulbosit123" height="30" width="40" /></a>
