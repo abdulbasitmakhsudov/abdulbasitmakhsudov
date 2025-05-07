@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulbasit</h1>
 <h3 align="center">Mobile Developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbasitmakhsudov&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasitmakhsudov" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbosit973o&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbosit973o" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulbasitmakhsudov" alt="abdulbasitmakhsudov" /></a> </p>
 
@@ -38,6 +38,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abdulbositt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdulbositt" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulbosit973o&show_icons=true&locale=en&layout=compact" alt="abdulbosit973o" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulbasitmakhsudov&show_icons=true&locale=en&layout=compact" alt="abdulbasitmakhsudov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulbasitmakhsudov&show_icons=true&locale=en" alt="abdulbasitmakhsudov" /></p>
